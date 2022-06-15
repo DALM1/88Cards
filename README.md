@@ -1,2 +1,2 @@
 # 88Cards
-Created with CodeSandbox
+.CodeSandbox
