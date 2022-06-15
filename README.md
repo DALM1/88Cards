@@ -1,2 +1,2 @@
-# 88cards
+# 88Cards
 Created with CodeSandbox
